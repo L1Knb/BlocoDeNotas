@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bloco de Notas</string>
+    <string name="oneNote">Vizualizar</string>
+    <string name="addNoteButton">Nova nota</string>
+    <string name="mainHeader">Minhas notas</string>
+    <string name="CtxMenuHeader">Ações</string>
+    <string name="updateNoteButton">Atualizar</string>
+    <string name="validation">Preencha os campos</string>
+
+    <string name="noteTitle">Titulo da nota</string>
+    <string name="noteContent">Conteudo da nota</string>
+    <string name="saveNoteButton">Salvar</string>
+
+    <string name="showNote">Mostar nota</string>
+    <string name="editNote">Editar nota</string>
+    <string name="removeNote">Remover nota</string>
+    
+    <string name="titleHint">Coloque o titulo aqui</string>
+
+</resources>
